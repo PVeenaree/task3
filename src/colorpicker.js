@@ -19,7 +19,7 @@ const ColorPicker = ({ colors }) => {
         style={{ backgroundColor: selectedColor }}
         onClick={handleButtonClick}
       >
-        Pick a color
+        Select a color
       </button>
       {showColors && (
               <div className="colordiv">
