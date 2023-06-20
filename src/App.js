@@ -1,5 +1,5 @@
 import React from 'react';
-import ColorPicker from './components/colorpicker';
+import ColorPicker from './colorpicker';
 
 const App = () => {
   const colors = ['Violet', 'Indigo', 'Blue', 'Green', 'Yellow', 'Orange', 'Red','Aqua','Salmon','Lime','Magenta','Midnightblue'];
